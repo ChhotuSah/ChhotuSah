@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChhotuSah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reat.js
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/chhotu-kumar-shah-4634bb20a/
 
